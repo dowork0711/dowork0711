@@ -21,9 +21,6 @@ I'm Duil HWANG, Web & Mobile Frontend Developer.
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 
-### Completion of Training
-<img src="https://academyportalcloud.mendixcloud.com/certificates/rapid.png" style="width: 100px; height: 100px;" alt="mendix rapid" />
-
 <br>
 
 ## Social.
